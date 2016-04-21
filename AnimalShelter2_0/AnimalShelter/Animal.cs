@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 namespace AnimalShelter
+    //lol
 {
     [Serializable()]
     public abstract class Animal:ISellable,IComparable<Animal>

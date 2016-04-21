@@ -20,3 +20,5 @@ C:\Users\MystoSaber\Dropbox\Kenny & John\C hashtag\AnimalShelter2_0\AnimalShelte
 C:\Users\MystoSaber\Dropbox\Kenny & John\C hashtag\AnimalShelter2_0\AnimalShelter\obj\x86\Debug\AnimalShelter.AnimalFileImporter.resources
 C:\Users\MystoSaber\Dropbox\Kenny & John\C hashtag\AnimalShelter2_0\AnimalShelter\obj\x86\Debug\AnimalShelter.Properties.Resources.resources
 C:\Users\MystoSaber\Dropbox\Kenny & John\C hashtag\AnimalShelter2_0\AnimalShelter\obj\x86\Debug\AnimalShelter.csproj.GenerateResource.Cache
+C:\Users\MystoSaber\Documents\GitHub\Kenny-John\AnimalShelter2_0\AnimalShelter\obj\x86\Debug\AnimalShelter.exe
+C:\Users\MystoSaber\Documents\GitHub\Kenny-John\AnimalShelter2_0\AnimalShelter\obj\x86\Debug\AnimalShelter.pdb
